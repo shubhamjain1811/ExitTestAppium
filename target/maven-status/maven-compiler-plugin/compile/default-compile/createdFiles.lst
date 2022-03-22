@@ -1,0 +1,6 @@
+Base_Pkg\BaseClass.class
+Pages\Animation_Page.class
+Pages\Graphics_Page.class
+Pages\App_Page.class
+Pages\Content_Page.class
+Pages\Accessiblity_Page.class

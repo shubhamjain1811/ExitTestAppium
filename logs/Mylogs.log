@@ -1,0 +1,22 @@
+[INFO ] 2022-03-22 14:08:44.911 [main] Accessiblity - Application running
+[INFO ] 2022-03-22 14:08:47.218 [main] Accessiblity - Accessiblity click 
+[INFO ] 2022-03-22 14:08:50.843 [main] Accessiblity - Accessiblity Node Provider click 
+[INFO ] 2022-03-22 14:08:51.634 [main] Accessiblity - Back to Home after Accessiblity 
+[INFO ] 2022-03-22 14:09:16.774 [main] Animation - Application is running for automation Test
+[INFO ] 2022-03-22 14:09:19.394 [main] Animation - Animation click
+[INFO ] 2022-03-22 14:09:22.490 [main] Animation - Bouncing Ball click
+[INFO ] 2022-03-22 14:09:23.470 [main] Animation - Back to Home after Automation
+[INFO ] 2022-03-22 14:09:53.063 [main] App - Application is running for App Test
+[INFO ] 2022-03-22 14:09:55.598 [main] App - App click
+[INFO ] 2022-03-22 14:09:57.053 [main] App - Action Bar Click
+[INFO ] 2022-03-22 14:10:01.580 [main] App - Action Bar Mechnics Click
+[INFO ] 2022-03-22 14:10:02.206 [main] App - Back to Home after App Test
+[INFO ] 2022-03-22 14:10:27.520 [main] Animation - Application is running for automation Test
+[INFO ] 2022-03-22 14:10:29.895 [main] Content - Content click
+[INFO ] 2022-03-22 14:10:32.780 [main] Content - Asset click
+[INFO ] 2022-03-22 14:10:34.381 [main] Content - Read Asset click
+[INFO ] 2022-03-22 14:10:34.875 [main] Content - Back to Home after Content Test
+[INFO ] 2022-03-22 14:10:58.751 [main] Graphics - Application is running for Graphics Test
+[INFO ] 2022-03-22 14:11:01.884 [main] Graphics - Graphics click
+[INFO ] 2022-03-22 14:11:03.479 [main] Graphics - AlphaBitMap click
+[INFO ] 2022-03-22 14:11:03.967 [main] Graphics - Back to Home after Content Test

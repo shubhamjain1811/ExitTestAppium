@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-22T15:20:48Z" name="Default suite" finished-at="2022-03-22T15:22:25Z" duration-ms="97137">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.RunnerAppium@5ef5c734]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-03-22T15:20:48Z" name="Default test" finished-at="2022-03-22T15:22:25Z" duration-ms="97137">
+      <class name="TestRunner.RunnerAppium">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:TestRunner.RunnerAppium@5ef5c734]" started-at="2022-03-22T15:20:48Z" name="setUpClass" finished-at="2022-03-22T15:20:48Z" duration-ms="571" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4ba6ec50]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.RunnerAppium@5ef5c734]" started-at="2022-03-22T15:20:48Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T15:21:09Z" duration-ms="20430" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To check Accessiblity button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional.empty"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.RunnerAppium@5ef5c734]" started-at="2022-03-22T15:21:09Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T15:21:28Z" duration-ms="19230" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To check Animation button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional.empty"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.RunnerAppium@5ef5c734]" started-at="2022-03-22T15:21:28Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T15:21:47Z" duration-ms="18859" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To Test App button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional.empty"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.RunnerAppium@5ef5c734]" started-at="2022-03-22T15:21:47Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T15:22:07Z" duration-ms="20016" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To Test Content button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional.empty"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.RunnerAppium@5ef5c734]" started-at="2022-03-22T15:22:07Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T15:22:25Z" duration-ms="17952" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To checkk Graphics Button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional.empty"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:TestRunner.RunnerAppium@5ef5c734]" started-at="2022-03-22T15:22:25Z" name="tearDownClass" finished-at="2022-03-22T15:22:25Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- TestRunner.RunnerAppium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
